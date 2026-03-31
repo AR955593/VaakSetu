@@ -5,6 +5,10 @@ Flutter app for the VaatSetu medical scribe project.
 ## Getting Started
 
 This is a Flutter application. If you are new to Flutter, these resources help:
+
+**VaakSetu AI: Seamless Doctor-Patient Communication**
+
+​VaakSetu AI is an intelligent, real-time translation assistant designed to bridge the linguistic gap in healthcare. In diverse medical environments, doctors often speak a mix of English and Hindi, while patients may only be comfortable in their local regional languages. This tool automates the translation process, ensuring that critical medical information is never "lost in translation."​## Key Functionalities​Doctor-to-Patient Translation: Automatically converts the doctor’s medical advice (in English/Hindi) into the patient’s preferred local language.​Patient-to-Doctor Translation: Translates the patient’s symptoms and concerns into the doctor’s language (English/Hindi) for accurate diagnosis.​Real-Time Automation: Detects speech and translates instantly, allowing for a natural, flowing conversation without manual toggling.​Medical Terminology Mapping: Optimized to handle complex medical terms so that the meaning remains accurate and easy to understand.
 <p align="center">
   <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193854_VaakSetu.png" width="200" />
    <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193857_VaakSetu.png" width="200" />
