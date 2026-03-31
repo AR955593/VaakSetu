@@ -10,7 +10,8 @@ This is a Flutter application. If you are new to Flutter, these resources help:
    <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193857_VaakSetu.png" width="200" />
   <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193910_VaakSetu.png" width="200" />
   <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193921_VaakSetu.png" width="200" />
-  <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193929_VaakSetu.png" width="200" />
+  <img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-193929_VaakSetu.png" width="200" /> 
+<img src="https://github.com/AR955593/VaakSetu/blob/main/Screenshot_20260329-194306_VaakSetu.png" width="200" />
 </p>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
