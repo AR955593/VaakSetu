@@ -22,7 +22,7 @@ This is a Flutter application. If you are new to Flutter, these resources help:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 
-**Description**
+## Description
 
 - **VaakSetu AI: Seamless Doctor-Patient Communication**
 
